@@ -7,7 +7,7 @@
 
 .header {
     width: 100%;
-    background: linear-gradient(rgb(40, 42, 53, 0.90), rgb(40, 42, 53, 0.90)), url(/images/bg.jpg);
+    background: linear-gradient(rgb(40, 42, 53, 0.90), rgb(40, 42, 53, 0.90)), url(bg.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 75%;
